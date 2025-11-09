@@ -6,7 +6,7 @@
 .header {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/background.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('background.png');
   background-size: cover;
   background-position: center;
   position: relative;
@@ -595,4 +595,5 @@ h3 {
   .contact-col {
     margin-bottom: 20px;
   }
+
 }
